@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    /* background-color: red; */
+    width: 50%;
+    padding: 10px;
+}
+.wrapper{
+    /* background-color: rebeccapurple; */
+    margin-top: 130px;
+    width: 500px;
+}
+.wrapper button{
+    padding: 15px 20px;
+    border-radius: 9px;
+    background-color: #002189;
+    color: white;
+    font-weight: 600;
+}
+.left h1{
+    font-size: 72px;
+    text-align: left;
+    line-height: 72px;
+    letter-spacing: normal;
+    font-weight: 700;
+    vertical-align: baseline;
+    padding: 0px 0px 10px;
+    color: rgb(26, 0, 82);
+}
+.left p{
+    font-weight: 500;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: normal;
+    line-height: 29px;
+    vertical-align: baseline;
+}
+.right{
+    /* background-color: blue; */
+    width: 50%;
+}
+.right img{
+    width: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
