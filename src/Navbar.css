@@ -8,6 +8,10 @@
     border-bottom: 1px solid black;
     display: flex;
     flex-wrap: wrap;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    
 }
 .logo{
     width: 100px;
@@ -43,7 +47,7 @@
     font-weight: 500;
 }
 .menu button{
-    background-color: red;
+    background-color: transparent;
     border: 0;
 }
 .dropdown-menu{
@@ -57,7 +61,7 @@
     position: absolute;
 }
 .drop{
-    background-color: blue;
+    /* background-color: blue; */
 }
 .drop:hover .dropdown-menu{
     display: block;

@@ -4,6 +4,7 @@ import sqimodel from './sqimodel.png'
 
 function FirstComponent() {
   return (
+    <>
     <div className='container'>
         <div className='d-flex'>
             <div className='left'>
@@ -24,6 +25,7 @@ function FirstComponent() {
             </div>
         </div>
     </div>
+    </>
   )
 }
 
