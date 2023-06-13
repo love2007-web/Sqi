@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    margin-top: 30px;
+    background-image: url(./DSC_9054-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: right;
+    padding-right: 70px;
+}
+.content{
+    width: 550px;
+    font-weight: 500;
+    /* justify-content: right; */
+}

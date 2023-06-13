@@ -43,7 +43,7 @@
     font-weight: 500;
 }
 .menu button{
-    background-color: transparent;
+    background-color: red;
     border: 0;
 }
 .dropdown-menu{
@@ -57,7 +57,7 @@
     position: absolute;
 }
 .drop{
-
+    background-color: blue;
 }
 .drop:hover .dropdown-menu{
     display: block;
