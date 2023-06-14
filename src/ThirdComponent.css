@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content-3{
+    padding: 5rem 0;
+  }
+  
+  .alumni-div{
+    width: 80%;
+  }
+  
+  .alumni-div h2{
+    font-size: 27px;
+    line-height: 32.4px;
+    font-weight: 600;
+    font-family: 'Poppins';
+  }
+  
+  .partner-div{
+    width: 80%;
+  }
+  
+  .p-img-div{
+    width: 13%;
+    margin-right: 9rem;
+  }
+  
+  .p-img-div4{
+    width: 13%;
+    margin-right: 0;
+  }
