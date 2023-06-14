@@ -1,6 +1,6 @@
 import React from 'react'
 import './FirstComponent.css'
-import sqimodel from './sqimodel.png'
+import sqimodel from './images/sqimodel.png'
 
 function FirstComponent() {
   return (
